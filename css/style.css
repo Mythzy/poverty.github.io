@@ -15,14 +15,14 @@
 .hero2{
 	height: 100vh;
 	width: 100%;
-	background-image: url(About.png);
+	background-image: url(../img/About.png);
 	background-size: cover;
 	background-position: center;
 }
 .hero3{
 	height: 100vh;
 	width: 100%;
-	background-image: url(Help.png);
+	background-image: url(../img/Help.png);
 	background-size: cover;
 	background-position: center;
 }
